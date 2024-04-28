@@ -8,7 +8,7 @@ This Python script provides a simple implementation of the Caesar Cipher encrypt
 
 ## Usage
 
-1. **Clone the Repository**: git clone https://github.com/Stranger1298/PRODIGY_CS_01.git
+1. **Clone the Repository**: git clone (https://github.com/annie-81/PRODIGY_CS_01.git)
 
 ### Navigate to the Directory:
 
